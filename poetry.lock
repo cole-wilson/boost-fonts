@@ -1,0 +1,14 @@
+[[package]]
+category = "main"
+description = "print list"
+name = "output"
+optional = false
+python-versions = "*"
+version = "1.0.1"
+
+[metadata]
+content-hash = "33baac1f22073d3a35bb77910164dc09e5de284b6c2d706597a6fc231c5839af"
+python-versions = "^2.7"
+
+[metadata.hashes]
+output = ["e61317148e17902db8b9a497ef62b7784adbf6e0be0cca263c8e0041d158a4e8"]
